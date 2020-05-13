@@ -1,2 +1,0 @@
-# SNP
-Projects,Assignments
